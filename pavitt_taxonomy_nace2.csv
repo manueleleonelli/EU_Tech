@@ -1,0 +1,57 @@
+sector_denomination,nace_rev2,pavitt_category
+Manufacture of chemicals and chemical products,20,Science based
+Manufacture of basic pharmaceutical products and pharmaceutical prep.,21,Science based
+"Manufacture of computer, electronic and optical products",26,Science based
+Telecommunications,61,Science based
+"Computer programming, consultancy and related activities",62,Science based
+Scientific research and development,72,Science based
+Manufacture of electrical equipment,27,Specialised suppliers
+Manufacture of machinery and equipment n.e.c.,28,Specialised suppliers
+Manufacture of other transport equipment,30,Specialised suppliers
+Repair and installation of machinery and equipment,33,Specialised suppliers
+Real estate activities,68,Specialised suppliers
+Legal and accounting activities,69,Specialised suppliers
+Management consultancy activities,70,Specialised suppliers
+"Architectural and engineering activities; technical testing and analysis",71,Specialised suppliers
+Advertising and market research,73,Specialised suppliers
+"Other professional, scientific and technical activities",74,Specialised suppliers
+Rental and leasing activities,77,Specialised suppliers
+"Office administrative, office support and other business support activities",82,Specialised suppliers
+Manufacture of paper and paper products,17,Scale and information intensive
+Printing and reproduction of recorded media,18,Scale and information intensive
+Manufacture of coke and refined petroleum products,19,Scale and information intensive
+Manufacture of rubber and plastic products,22,Scale and information intensive
+Manufacture of other non-metallic mineral products,23,Scale and information intensive
+Manufacture of basic metals,24,Scale and information intensive
+"Manufacture of motor vehicles, trailers and semi-trailers",29,Scale and information intensive
+Publishing activities,58,Scale and information intensive
+Audiovisual activities,59,Scale and information intensive
+Broadcasting activities,60,Scale and information intensive
+Information service activities,63,Scale and information intensive
+"Financial service activities, except insurance and pension funding",64,Scale and information intensive
+"Insurance, reinsurance and pension funding, except compulsory social security",65,Scale and information intensive
+Activities auxiliary to financial services and insurance activities,66,Scale and information intensive
+Manufacture of food products,10,Supplier dominated
+Manufacture of beverages,11,Supplier dominated
+Manufacture of tobacco products,12,Supplier dominated
+Manufacture of textiles,13,Supplier dominated
+Manufacture of wearing apparel,14,Supplier dominated
+Manufacture of leather and related products,15,Supplier dominated
+"Manufacture of wood and of products of wood and cork, except furniture",16,Supplier dominated
+"Manufacture of fabricated metal products, except machinery and equipment",25,Supplier dominated
+Manufacture of furniture,31,Supplier dominated
+Other manufacturing,32,Supplier dominated
+"Wholesale and retail trade and repair of motor vehicles and motorcycles",45,Supplier dominated
+"Wholesale trade, except of motor vehicles and motorcycles",46,Supplier dominated
+"Retail trade, except of motor vehicles and motorcycles",47,Supplier dominated
+Land transport and transport via pipelines,49,Supplier dominated
+Water transport,50,Supplier dominated
+Air transport,51,Supplier dominated
+Warehousing and support activities for transportation,52,Supplier dominated
+Postal and courier activities,53,Supplier dominated
+Accommodation and food service activities,55-56,Supplier dominated
+Veterinary activities,75,Supplier dominated
+Employment activities,78,Supplier dominated
+"Travel agency, tour operator reservation service and related activities",79,Supplier dominated
+Security and investigation activities,80,Supplier dominated
+Services to buildings and landscape activities,81,Supplier dominated

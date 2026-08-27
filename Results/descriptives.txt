@@ -1,0 +1,44 @@
+
+=== Full sample (N = 14,139) ===
+High-tech shares:
+  OECD (strict GRV)     19.9%
+  OECD (ICT-incl.)      30.2%
+  Calvino               49.3%
+  Pavitt narrow         32.1%
+  Pavitt broad          61.7%
+
+By instrument (incl. Other, reported not hidden):
+  OECD (strict GRV)    Collaborative: 16.9%  Early-stage: 40.1%  Other: 25.4%  SME: 28.1%  | chi2=331.2 p=1.2e-72
+  OECD (ICT-incl.)     Collaborative: 26.4%  Early-stage: 47.8%  Other: 36.7%  SME: 43.5%  | chi2=335.3 p=1.6e-73
+  Calvino              Collaborative: 48.3%  Early-stage: 53.2%  Other: 55.4%  SME: 51.7%  | chi2=12.7 p=1.8e-03
+  Pavitt narrow        Collaborative: 28.3%  Early-stage: 50.5%  Other: 37.9%  SME: 45.5%  | chi2=339.4 p=2.0e-74
+  Pavitt broad         Collaborative: 58.9%  Early-stage: 71.8%  Other: 66.8%  SME: 73.1%  | chi2=167.1 p=5.2e-37
+
+By ownership:
+  OECD (strict GRV)    Indep 30.3%  Subs 17.8%  | chi2=93.2 p=4.6e-22
+  OECD (ICT-incl.)     Indep 42.6%  Subs 27.1%  | chi2=107.7 p=3.2e-25
+  Calvino              Indep 55.9%  Subs 44.3%  | chi2=50.0 p=1.5e-12
+  Pavitt narrow        Indep 43.5%  Subs 29.8%  | chi2=81.0 p=2.3e-19
+  Pavitt broad         Indep 69.9%  Subs 60.5%  | chi2=34.3 p=4.8e-09
+
+=== Estimation sample (rev) (N = 3,750) ===
+High-tech shares:
+  OECD (strict GRV)     14.3%
+  OECD (ICT-incl.)      23.2%
+  Calvino               38.2%
+  Pavitt narrow         26.1%
+  Pavitt broad          52.9%
+
+By instrument (incl. Other, reported not hidden):
+  OECD (strict GRV)    Collaborative: 12.3%  Early-stage: 35.3%  Other: 14.0%  SME: 22.0%  | chi2=91.3 p=1.5e-20
+  OECD (ICT-incl.)     Collaborative: 20.7%  Early-stage: 42.6%  Other: 23.5%  SME: 37.0%  | chi2=80.1 p=4.1e-18
+  Calvino              Collaborative: 37.3%  Early-stage: 45.3%  Other: 41.5%  SME: 41.4%  | chi2=6.3 p=4.4e-02
+  Pavitt narrow        Collaborative: 23.8%  Early-stage: 46.8%  Other: 24.0%  SME: 39.2%  | chi2=74.5 p=6.7e-17
+  Pavitt broad         Collaborative: 50.5%  Early-stage: 65.3%  Other: 57.5%  SME: 68.5%  | chi2=45.5 p=1.3e-10
+
+By ownership:
+  OECD (strict GRV)    Indep 23.5%  Subs 12.6%  | chi2=24.7 p=6.6e-07
+  OECD (ICT-incl.)     Indep 31.2%  Subs 20.2%  | chi2=17.9 p=2.3e-05
+  Calvino              Indep 38.9%  Subs 35.4%  | chi2=1.3 p=2.6e-01
+  Pavitt narrow        Indep 33.3%  Subs 24.0%  | chi2=11.5 p=7.1e-04
+  Pavitt broad         Indep 57.5%  Subs 51.0%  | chi2=4.1 p=4.4e-02
